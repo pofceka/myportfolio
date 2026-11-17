@@ -2,3 +2,5 @@ User has replaced prior reference with https://adasilv2.framer.website/. Match t
 Contact: aubuldasev@gmail.com. GitHub: https://github.com/pofceka. Unannounced projects are labeled as future projects; unfinished materials use coming-soon wording. Pullar preview artwork is labeled as concept imagery.
 
 Verified update (17 November 2026): Ayubkhon is the founder of Pullar and built it from scratch, initially for his own finances before deciding to share it with others. Pullar is currently under review by Apple; no App Store link is available yet. Open to internships across computer science, including software engineering and development. Computing and Information Technologies at RIT Dubai, 2026 to 2030 (expected graduation). Preserve the current layout and animations; update factual copy only.
+
+Contact: Telegram @aubuldasev, https://t.me/aubuldasev.
