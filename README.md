@@ -24,3 +24,9 @@ Missing photos, project screenshots, résumé information, and recommendations a
 ## Updates
 
 After completing and checking an authorized portfolio change, commit and push it to this repository. Do not force push or overwrite unrelated changes.
+
+## Project access for new chats
+
+Open this folder as the Codex project: `/Users/aubuldasev/Documents/portfolio website`. The root `AGENTS.md` explains the source, preview command, live URL, GitHub update policy, and existing Sites deployment. New chats in this project can work directly with these files.
+
+The live site is private and may ask for your ChatGPT login. Browser sessions are separate from source access.
